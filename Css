@@ -1,0 +1,54 @@
+.cubo1{
+    height: 600px;
+    width: 400px;
+    border: solid 2px;
+}
+.title{
+    position: relative;
+    top: 54px;
+    right: 109px;
+    font-size: 16px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Prata', serif;
+
+}
+.cubo2{
+    height: 50px;
+    width: 400px;
+    border-bottom: solid 2px;
+
+}
+.cubo3{
+    position: relative;
+    top: 62px; 
+    width: 380px;
+    height: 480px;
+    border-bottom: solid 2px;
+    border-top: solid 2px;
+    border-left: solid 2px;
+    border-right: solid 3px;
+
+
+}
+.cubo4{
+    position: relative;
+    bottom: -490px;
+    width: 380px;
+    height: 40px;
+}
+input{
+    position: relative;
+    top: 5px;
+    width: 268px;
+    height: 25px;
+}
+.btn_submit{
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top: 5px;
+    left: 2px;
+}
+@media screen{
+
+}
